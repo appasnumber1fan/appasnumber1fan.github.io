@@ -5,15 +5,13 @@ Please input the code down below
 <form class="passform"> 
     <input type="text" name="input_field">
               <input type="submit">
-    <if> (name=="1234") {
+</form>
+     <if> (name=="1234") {
         "good job"
     }
     else if (name/="1234"){
         "oopsies"
         } </if>
-        
-</form>
-    
 <h1> Happy 6 months!</h1>
 <h2> Disclaimer Idk how to code haha</h2>
  </body>
