@@ -4,7 +4,9 @@ Hello, welcome to my first coding project with only one year of basic high schoo
 Please input the code down below
 <form class="passform"> 
     <input type="text" name="input_field" id="nm">
-             
+    cond: ${{ name == '1234' }}
+    if_true: "value for pull request event"
+    if_false: "value for non pull request event"         
     <script>
         var a=document.getElementById("nm").value;
         function cond(){
