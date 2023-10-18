@@ -4,10 +4,7 @@ Hello, welcome to my first coding project with only one year of basic high schoo
 Please input the code down below
 <form class="passform"> 
     <input type="text" name="input_field" id="nm">
-    cond: {name=='1234'}
-    if_true: document.write "nice"
-    if_false: "damn"
-
+  
 <h1> Happy 6 months!</h1>
 <h2> Disclaimer Idk how to code haha</h2>
  </body>
