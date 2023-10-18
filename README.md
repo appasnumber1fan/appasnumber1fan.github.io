@@ -4,7 +4,7 @@ Hello, welcome to my first coding project with only one year of basic high schoo
 Please input the code down below
 <form class="passform"> 
     <input type="text" name="input_field" id="nm">
-              <input type="submit">
+             
     <script>
         var a=document.getElementById("nm").value;
         function cond(){
