@@ -6,6 +6,7 @@ Please input the code down below
     <input type="password" required id="pass1>
               <input type="submit">
 </form>
+    <input type="text" name="input_field">
 <h1> Happy 6 months!</h1>
 <h2> Disclaimer Idk how to code haha</h2>
  </body>
