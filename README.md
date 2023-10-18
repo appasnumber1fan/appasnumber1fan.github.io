@@ -4,12 +4,10 @@ Hello, welcome to my first coding project with only one year of basic high schoo
 <body>
 Please input the code down below
 <form class="passform"> 
-    <input type="text" name="input_field" id="nm">
-    if: (name == "1234") {document.write("nice")
-    }
-    else {
-    document.write("damn")
-    ]
+    <input type="text" name="input_field" id: "nm" >
+    if: ${{<nm == '1234'>}} <actions: input type="nice">
+    if: ${{<nm != '1234'>}} <actions: input type="damn">
+   
 <h1> Happy 6 months!</h1>
 <h2> Disclaimer Idk how to code haha</h2>
  </body>
