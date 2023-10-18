@@ -3,15 +3,17 @@ Hello, welcome to my first coding project with only one year of basic high schoo
 <body>
 Please input the code down below
 <form class="passform"> 
-    <input type="text" name="input_field">
+    <input type="text" name="input_field" id="nm">
               <input type="submit">
+    <script>
 </form>
-     <if> (name=="1234") {
+     <if>(name=="1234") {
         "good job"
     }
     else if (name/="1234"){
         "oopsies"
         } </if>
+</script>
 <h1> Happy 6 months!</h1>
 <h2> Disclaimer Idk how to code haha</h2>
  </body>
