@@ -5,7 +5,7 @@ Please input the code down below
 <form class="passform"> 
     <input type="text" name="input_field" id="nm">
    function cond(){
-    if(nm == 1234) document.write(nice);
+    if(nm == 1234) document.write("nice");
     }
     else{
     document.write("damn")
