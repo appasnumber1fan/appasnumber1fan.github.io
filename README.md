@@ -5,7 +5,11 @@ Please input the code down below
 <form class="passform"> 
     <input type="text" name="input_field">
               <input type="submit">
-    <if name=="1234">
+    if (name=="1234") {
+        console.log('good job')
+    else if (name/="1234"
+        console.log('oopsies')
+        
         
 </form>
     
