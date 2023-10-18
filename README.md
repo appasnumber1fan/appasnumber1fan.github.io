@@ -2,11 +2,13 @@ Hello, welcome to my first coding project with only one year of basic high schoo
 <br>
 <body>
 Please input the code down below
-<form class="passform">
-    <input type="password" required id="pass1>
-              <input type="submit">
-</form>
+<form class="passform"> 
     <input type="text" name="input_field">
+              <input type="submit">
+    <if name=="1234">
+        
+</form>
+    
 <h1> Happy 6 months!</h1>
 <h2> Disclaimer Idk how to code haha</h2>
  </body>
