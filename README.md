@@ -10,7 +10,7 @@ Please input the code down below
     }
     else if (name/="1234"){
         "oopsies"
-        }</if>
+        } </if>
         
 </form>
     
